@@ -1,2 +1,2 @@
 # React-Test
-Experimental Project
+A small project created to learn React.
