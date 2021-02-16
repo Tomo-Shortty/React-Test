@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Grocery_List_Builder.Controllers
 {
-    public class GroceryListController : Controller
+    public class HomeController : Controller
     {
         public IActionResult Index()
         {
