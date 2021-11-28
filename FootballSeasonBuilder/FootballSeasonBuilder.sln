@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballSeasonBuilder", "FootballSeasonBuilder\FootballSeasonBuilder.csproj", "{7EFEDE45-38ED-49EA-BD16-8D0E6D44BDCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballSeasonBuilder", "FootballSeasonBuilder\FootballSeasonBuilder.csproj", "{5BC523D2-AEF6-49E1-B764-706D6A782255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EFEDE45-38ED-49EA-BD16-8D0E6D44BDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EFEDE45-38ED-49EA-BD16-8D0E6D44BDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EFEDE45-38ED-49EA-BD16-8D0E6D44BDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EFEDE45-38ED-49EA-BD16-8D0E6D44BDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC523D2-AEF6-49E1-B764-706D6A782255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC523D2-AEF6-49E1-B764-706D6A782255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC523D2-AEF6-49E1-B764-706D6A782255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC523D2-AEF6-49E1-B764-706D6A782255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B00D8342-11BE-43C4-86D2-3C4FD89C9355}
+		SolutionGuid = {DBD90847-EF36-4069-9478-EBAF7D5C5B30}
 	EndGlobalSection
 EndGlobal

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kkYrvH5ugmZu5rVEv2lK5JCl7MOshn4vCxnJ1EhJnmU4LOWU9UPwIE77IcThr00kngvNHGkJXx4n1poogZKFuw==",
+  "dgSpecHash": "ZUKL3D2ATVV8wv5+wNURb8B0e+o8oGeEzFJ32SBCAIeiuD5zg3B0URr/exsbiQy2nJ8+FgofxHzAZWYry4ZnsA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tomo\\Documents\\Programming\\Projects\\JavaScript\\React-Test\\FootballSeasonBuilder\\FootballSeasonBuilder\\FootballSeasonBuilder.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomo\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.0\\microsoft.aspnetcore.spaproxy.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
